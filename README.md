@@ -10,12 +10,13 @@ socialable@naver.com</br>
 📷 **Instagram** : 
 [https://www.instagram.com/ddong_wookk/](https://www.instagram.com/ddong_wookk/)</br>
 
-### ⚡stack⚡
-<img src="https://img.shields.io/badge/Java-red?style=flat&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-바탕색?style=flat&logo=AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-바탕색?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-바탕색?style=flat&logo=docker&logoColor=white"/>
+# Backend Developer, 함께 발전하는 개발자
+
+### 안녕하세요! 함께 발전하는 개발자 이동욱입니다.
+
+### "지식과 기술을 먼저 공부하여 공유하면서 함께 성장하자"라는 마음가짐을 가지고 있습니다.
+
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=socialable)](https://solved.ac/socialable)<br/>
