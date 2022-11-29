@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevelopeWithTeam&fontSize=90"/><br/>
-<img src="https://img.shields.io/badge/Java-바탕색?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-바탕색?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-바탕색?style=flat&logo=AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-바탕색?style=flat&logo=springboot&logoColor=white"/>
