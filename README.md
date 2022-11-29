@@ -1,5 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevelopeWithTeam&fontSize=90"/><br/>
 
+
+
+# Backend Developer, 함께 발전하는 개발자
+
+### 안녕하세요! 함께 발전하는 개발자 이동욱입니다.
+
+### "지식과 기술을 먼저 공부하여 공유하면서 함께 성장하자"라는 마음가짐을 가지고 있습니다.
+
+
 ### 👦 Profile
 📧 **Email** : 
 socialable@naver.com</br>
@@ -9,15 +18,6 @@ socialable@naver.com</br>
 [https://tngusmiso.tistory.com/](https://sosohan-pencil-case.tistory.com/)</br>
 📷 **Instagram** : 
 [https://www.instagram.com/ddong_wookk/](https://www.instagram.com/ddong_wookk/)</br>
-
-# Backend Developer, 함께 발전하는 개발자
-
-### 안녕하세요! 함께 발전하는 개발자 이동욱입니다.
-
-### "지식과 기술을 먼저 공부하여 공유하면서 함께 성장하자"라는 마음가짐을 가지고 있습니다.
-
-
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=socialable)](https://solved.ac/socialable)<br/>
 <!--
