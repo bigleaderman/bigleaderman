@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevelopeWithTeam&fontSize=90"/><br/>
 
 ### 👦 Profile
-📧 **Email**
-socialable@naver.com
-🐱**Github**
-[https://github.com/bigleaderman](https://github.com/bigleaderman)
-📚 **Tistory Blog**
-[https://tngusmiso.tistory.com/](https://sosohan-pencil-case.tistory.com/)
-📷 **Instagram**
-[https://www.instagram.com/ddong_wookk/](https://www.instagram.com/ddong_wookk/)
+📧 **Email** : 
+socialable@naver.com</br>
+🐱**Github** : 
+[https://github.com/bigleaderman](https://github.com/bigleaderman)</br>
+📚 **Tistory Blog** : 
+[https://tngusmiso.tistory.com/](https://sosohan-pencil-case.tistory.com/)</br>
+📷 **Instagram** : 
+[https://www.instagram.com/ddong_wookk/](https://www.instagram.com/ddong_wookk/)</br>
 
 ### ⚡stack⚡
 <img src="https://img.shields.io/badge/Java-red?style=flat&logo=JAVA&logoColor=white"/>
