@@ -3,7 +3,7 @@
 😄Profile
  
 <img src="https://img.shields.io/badge/Java-red?style=flat&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-바탕색?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-바탕색?style=flat&logo=AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-바탕색?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-바탕색?style=flat&logo=docker&logoColor=white"/>
