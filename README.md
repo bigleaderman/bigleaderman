@@ -1,7 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevelopeWithTeam&fontSize=90"/><br/>
 
-😄Profile
- 
+### 👦 Profile
+📧 **Email**
+
+socialable@naver.com
+
+🐱**Github**
+
+[https://github.com/bigleaderman](https://github.com/bigleaderman)
+
+📚 **Tistory Blog**
+
+[https://tngusmiso.tistory.com/](https://sosohan-pencil-case.tistory.com/)
+
+📷 **Instagram**
+
+[https://www.instagram.com/ddong_wookk/](https://www.instagram.com/ddong_wookk/)
 <img src="https://img.shields.io/badge/Java-red?style=flat&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-바탕색?style=flat&logo=AWS&logoColor=white"/>
