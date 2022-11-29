@@ -1,4 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevelopeWithTeam&fontSize=90"/><br/>
+
+😄Profile
+ 
 <img src="https://img.shields.io/badge/Java-red?style=flat&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-바탕색?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-바탕색?style=flat&logo=AWS&logoColor=white"/>
