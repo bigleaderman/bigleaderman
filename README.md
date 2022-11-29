@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DevelopeWithTeam&fontSize=90"/><br/>
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-바탕색?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
